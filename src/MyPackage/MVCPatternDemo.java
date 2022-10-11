@@ -48,5 +48,6 @@ public class MVCPatternDemo {
         course.setDifficulty(difficulty);
         System.out.println("\n");
         return course;
+
     }
 }
